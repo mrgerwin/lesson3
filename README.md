@@ -24,7 +24,7 @@ Quiz Questions
 * Which operation is used to determine the remainder of division?
 * Which operation will only give you the whole number answer of the division?
 * What will be the result of this code?
-*--------------------------------------------------------
+* --------------------------------------------------------
 * X = 2 + 2
 * Y = 5
 * Z = X + Y
