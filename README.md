@@ -18,15 +18,17 @@ Determine the total area of the cookies if the radius is 3 in. (Remember this is
 
 Now change the program so that each cookie requires 5 chips and the radius is 2.5 in.
 
-Quiz Questions
+Discussion Questions
 
-* Write the statement that will allow you to access math functions?
-* Which operation is used to determine the remainder of division?
-* Which operation will only give you the whole number answer of the division?
-* What will be the result of code below the line?
+1. Write the statement that will allow you to access math functions?
+2. Which operation is used to determine the remainder of division?
+3. Which operation will only give you the whole number answer of the division?
+4. Without using a computer, describe the result of code below the line?
 * --------------------------------------------------------
-* X = 2 + 2
-* Y = 5
-* Z = X + Y
-* X = Z % 2
-* Print(X)
+```python
+X = 2 + 2
+Y = 5
+Z = X + Y
+X = Z % 2
+Print(X)
+```
